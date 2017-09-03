@@ -23,7 +23,6 @@ PRODUCT_COPY_FILES += \
     vendor/DEXP/MLTE5/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/DEXP/MLTE5/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt
 
-ifeq ($(QCPATH),)
 PRODUCT_COPY_FILES += \
     vendor/DEXP/MLTE5/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/DEXP/MLTE5/proprietary/bin/btnvtool:system/bin/btnvtool \
@@ -245,4 +244,3 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     qcnvitems \
     qcrilhook
-endif
