@@ -31,7 +31,6 @@ PRODUCT_COPY_FILES += \
     vendor/DEXP/MLTE5/proprietary/bin/imscmservice:system/bin/imscmservice \
     vendor/DEXP/MLTE5/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
     vendor/DEXP/MLTE5/proprietary/bin/imsqmidaemon:system/bin/imsqmidaemon \
-    vendor/DEXP/MLTE5/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
     vendor/DEXP/MLTE5/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/DEXP/MLTE5/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/DEXP/MLTE5/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
@@ -39,7 +38,6 @@ PRODUCT_COPY_FILES += \
     vendor/DEXP/MLTE5/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/DEXP/MLTE5/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/DEXP/MLTE5/proprietary/bin/radish:system/bin/radish \
-    vendor/DEXP/MLTE5/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/DEXP/MLTE5/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/DEXP/MLTE5/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/DEXP/MLTE5/proprietary/bin/vm_bms:system/bin/vm_bms \
@@ -241,7 +239,6 @@ PRODUCT_PACKAGES += \
     libloc_api_v02 \
     libloc_ds_api \
     libmm-abl \
-    libqct_resampler \
     libtime_genoff \
     shutdownlistener \
     TimeService \
