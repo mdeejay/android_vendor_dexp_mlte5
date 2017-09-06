@@ -39,7 +39,6 @@ PRODUCT_COPY_FILES += \
     vendor/DEXP/MLTE5/proprietary/bin/radish:system/bin/radish \
     vendor/DEXP/MLTE5/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/DEXP/MLTE5/proprietary/bin/time_daemon:system/bin/time_daemon \
-    vendor/DEXP/MLTE5/proprietary/bin/vm_bms:system/bin/vm_bms \
     vendor/DEXP/MLTE5/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
     vendor/DEXP/MLTE5/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
     vendor/DEXP/MLTE5/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
