@@ -122,6 +122,8 @@ PRODUCT_COPY_FILES += \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libmasc.so:system/vendor/lib/libmasc.so \
     vendor/DEXP/MLTE5/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
+    vendor/DEXP/MLTE5/proprietary/vendor/lib/libmm-als.so:system/vendor/lib/libmm-als.so \
+    vendor/DEXP/MLTE5/proprietary/vendor/lib/libmm-disp-apis.so:system/vendor/lib/libmm-disp-apis.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libmmcamera2_c2d_module.so:system/vendor/lib/libmmcamera2_c2d_module.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libmmcamera2_cpp_module.so:system/vendor/lib/libmmcamera2_cpp_module.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libmmcamera2_frame_algorithm.so:system/vendor/lib/libmmcamera2_frame_algorithm.so \
