@@ -187,6 +187,7 @@ PRODUCT_COPY_FILES += \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libssd.so:system/vendor/lib/libssd.so \
+    vendor/DEXP/MLTE5/proprietary/vendor/lib/libstlport.so:system/vendor/lib/libstlport.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
