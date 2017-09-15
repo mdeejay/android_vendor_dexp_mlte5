@@ -61,9 +61,6 @@ PRODUCT_COPY_FILES += \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
-    vendor/DEXP/MLTE5/proprietary/vendor/lib/libcalmodule_akm.so:system/vendor/lib/libcalmodule_akm.so \
-    vendor/DEXP/MLTE5/proprietary/vendor/lib/libcalmodule_gyroscope.so:system/vendor/lib/libcalmodule_gyroscope.so \
-    vendor/DEXP/MLTE5/proprietary/vendor/lib/libcalmodule_yamaha.so:system/vendor/lib/libcalmodule_yamaha.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libchromatix_ov2680_common.so:system/vendor/lib/libchromatix_ov2680_common.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libchromatix_ov2680_default_video.so:system/vendor/lib/libchromatix_ov2680_default_video.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libchromatix_ov2680_preview.so:system/vendor/lib/libchromatix_ov2680_preview.so \
